@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Elysian剑彧的小窝
+title: Elysian剑彧的老巢
 subtitle: ''
 description: 啊嘎嘎
 keywords:
@@ -102,3 +102,8 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+#博客年份
+footer:
+  owner:
+    enable: true
+    since: 2024
