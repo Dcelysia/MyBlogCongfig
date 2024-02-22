@@ -1,0 +1,77 @@
+nav:
+  logo: /img/AI绘画纳西妲1.png
+  display_title: true
+  fixed: false # fixed navigation bar    
+post_asset_folder: true  
+menu:
+  首页: / || fas fa-home
+  时间轴: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  友链~: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
+
+highlight_theme: pale night #代码框代码主题
+highlight_copy: true  # 代码复制键
+highlight_shrink: false #代码框展开
+
+
+
+#头像
+avatar:
+  img: /img/voidfufu4k_aba19.jpg
+  # effect: true # 头像会一直转，转的贼快，太鬼畜了
+
+#其他界面顶部图
+category_per_img:
+  分类: voidfufu4k_aba19.jpg
+  标签: 藿藿4k_41b16.jpg
+  时间轴: 芙莉莲1.jpg
+#其他界面顶部图
+tag_per_img:
+  archives: /img/芙莉莲1.jpg
+  tags: /img/藿藿4k_41b16.jpg
+  categories: /img/voidfufu4k_aba19.jpg
+  link: /img/芙莉莲2.jpg
+
+
+#顶部图
+tag_img: /img/藿藿4k_41b16.jpg
+category_img: /img/voidfufu4k_aba19.jpg
+index_img: /img/void2周年4k_077a8.jpg
+default_top_img: /img/芙莉莲1.jpg
+
+
+#加载动画
+preloader:
+  enable: true
+  source: 1 #可选值1=fullpage或2=progress bar，可查看https://codebyzach.github.io/pace/
+  pace_css_url: 
+
+# local_search:
+#   enable: true
+#   # Preload the search data when the page loads.
+#   preload: false
+#   # Show top n results per article, show all results by setting to -1
+#   top_n_per_article: 1
+#   # Unescape html strings to the readable one.
+#   unescape: true
+#   CDN:
+
+# # 主页subtitle
+# subtitle:
+#   enable: true
+#   # Typewriter Effect (打字效果)
+#   effect: true
+#   startDelay: 300 # time before typing starts in milliseconds
+#   typeSpeed: 200 # type speed in milliseconds
+#   backSpeed: 800 # backspacing speed in milliseconds
+#   # loop (循环打字)
+#   loop: true
+#   # source 调用三方服务
+#   # source: false 开关调用
+#   # subtitle 会先显示 source , 再显示 sub 的內容
+#   source: true
+#   # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
+#   sub:
+#     - 就这样群星依旧在头顶赏乐 &#44; 沿途将是它们优雅的倦容
