@@ -107,3 +107,12 @@ footer:
   owner:
     enable: true
     since: 2024
+# busuanzi count for PV / UV in site
+# 訪問人數
+busuanzi:
+site_uv: true
+site_pv: true
+page_pv: true
+
+init_pv: 10000
+init_uv: 10000
