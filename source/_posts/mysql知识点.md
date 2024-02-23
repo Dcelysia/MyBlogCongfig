@@ -2,9 +2,9 @@
 title: MYSQL
 toc: true
 date: 
-cover: /img/明日方舟小人1.jpg
-categories: 个人笔记
+cover: /img/明日方舟小人5.jpg
 description: 想不出来介绍了
+categories: 个人笔记
 tags: 后端
 post_meta:
   page:

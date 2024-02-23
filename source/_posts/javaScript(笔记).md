@@ -3,8 +3,8 @@ title: javaScript
 toc: true
 date: 
 cover: /img/明日方舟小人4.jpg
-categories: 个人笔记
 description: 想不出来介绍了
+categories: 个人笔记
 tags: 后端
 post_meta:
   page:
