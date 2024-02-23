@@ -2,7 +2,7 @@
 title: Hello World
 toc: true
 date: 
-cover: /img/明日方舟小人4.jpg
+cover: /img/明日方舟小人1.jpg
 categories:
 tags:
 post_meta:
