@@ -2,7 +2,7 @@
 title: NOI1.11/编程基础之二分查找(10道题)
 toc: true
 date: 
-cover: /img/明日方舟小人4.jpg
+cover: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%B0%8F%E4%BA%BA4.jpg
 categories: 题解
 description: NOI的题解
 tags: 后端

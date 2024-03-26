@@ -100,8 +100,8 @@ theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+# deploy:
+#   type: ''
 #博客年份
 footer:
   owner:
@@ -144,7 +144,6 @@ js_concator:
   front: false
   silent: false
 
-# 图片优化
 image_minifier:
   enable: true
   interlaced: false
@@ -152,3 +151,9 @@ image_minifier:
   optimizationLevel: 2
   pngquant: false
   progressive: false
+
+deploy:
+  type: git
+  repo:
+    coding: git@e.coding.net:g-uybr5685/dcelysia/dcelysia.git
+  branch: master

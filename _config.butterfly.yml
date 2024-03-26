@@ -1,5 +1,5 @@
 nav:
-  logo: /img/AI绘画纳西妲1.png
+  logo: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/AI%E7%BB%98%E7%94%BB%E7%BA%B3%E8%A5%BF%E5%A6%B21.png
   display_title: true
   fixed: false # fixed navigation bar
 post_asset_folder: true  
@@ -72,27 +72,27 @@ aside:
 
 #头像
 avatar:
-  img: /img/voidfufu4k_aba19.jpg
+  img: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/voidfufu4k_aba19.jpg
   # effect: true 
 
 #其他界面顶部图
 category_per_img:
-  分类: voidfufu4k_aba19.jpg
-  标签: 藿藿4k_41b16.jpg
-  时间轴: 芙莉莲1.jpg
+  分类: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/voidfufu4k_aba19.jpg
+  标签: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E8%97%BF%E8%97%BF4k_41b16.jpg
+  时间轴: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg
 #其他界面顶部图
 tag_per_img:
-  archives: /img/芙莉莲1.jpg
-  tags: /img/藿藿4k_41b16.jpg
-  categories: /img/voidfufu4k_aba19.jpg
-  link: /img/芙莉莲2.jpg
+  archives: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg
+  tags: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E8%97%BF%E8%97%BF4k_41b16.jpg
+  categories: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/voidfufu4k_aba19.jpg
+  link: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E8%8A%99%E8%8E%89%E8%8E%B22.jpg
 
 
 #顶部图
-tag_img: /img/藿藿4k_41b16.jpg
-category_img: /img/voidfufu4k_aba19.jpg
-index_img: /img/void2周年4k_077a8.jpg
-default_top_img: /img/芙莉莲1.jpg
+tag_img: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E8%97%BF%E8%97%BF4k_41b16.jpg
+category_img: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/voidfufu4k_aba19.jpg
+index_img: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/void2%E5%91%A8%E5%B9%B44k_077a8.jpg
+default_top_img: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg
 #配置TOC
 toc:
   post: true
@@ -181,7 +181,7 @@ subtitle:
   sub:
     - 群星依旧在头顶赏乐 &#44; 沿途将是它们优雅的倦容
 
-favicon: /img/华仔.png
+favicon: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E5%8D%8E%E4%BB%94.png
 
 # 加载滚条
 rightside_scroll_percent: true
@@ -212,4 +212,4 @@ init_pv: 10000
 init_uv: 10000
 
 
-background: url(/img/void2周年4k_077a8.jpg)
+background: url(https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/void2%E5%91%A8%E5%B9%B44k_077a8.jpg)

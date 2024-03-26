@@ -2,7 +2,7 @@
 title: IOCDIBean
 toc: true
 date: 
-cover: /img/明日方舟小人3.jpg
+cover: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%B0%8F%E4%BA%BA3.jpg
 description: 想不出来介绍了
 categories: 个人笔记
 tags: 后端
