@@ -1,5 +1,5 @@
 nav:
-  logo: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/AI%E7%BB%98%E7%94%BB%E7%BA%B3%E8%A5%BF%E5%A6%B21.png
+  logo: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/AI%E7%BB%98%E7%94%BB%E7%BA%B3%E8%A5%BF%E5%A6%B21.png?attname=
   display_title: true
   fixed: false # fixed navigation bar
 post_asset_folder: true  
@@ -72,27 +72,27 @@ aside:
 
 #头像
 avatar:
-  img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/voidfufu4k_aba19.jpg
+  img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/voidfufu4k_aba19.jpg?attname=
   # effect: true 
 
 #其他界面顶部图
 category_per_img:
-  分类: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/voidfufu4k_aba19.jpg
-  标签: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%97%BF%E8%97%BF4k_41b16.jpg
-  时间轴: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg
+  分类: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/voidfufu4k_aba19.jpg?attname=
+  标签: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%97%BF%E8%97%BF4k_41b16.jpg?attname=
+  时间轴: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg?attname=
 #其他界面顶部图
 tag_per_img:
-  archives: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg
-  tags: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%97%BF%E8%97%BF4k_41b16.jpg
-  categories: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/voidfufu4k_aba19.jpg
-  link: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%8A%99%E8%8E%89%E8%8E%B22.jpg
+  archives: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg?attname=
+  tags: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%97%BF%E8%97%BF4k_41b16.jpg?attname=
+  categories: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/voidfufu4k_aba19.jpg?attname=
+  link: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%8A%99%E8%8E%89%E8%8E%B22.jpg?attname=
 
 
 #顶部图
-tag_img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%97%BF%E8%97%BF4k_41b16.jpg
-category_img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/voidfufu4k_aba19.jpg
-index_img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/void2%E5%91%A8%E5%B9%B44k_077a8.jpg
-default_top_img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg
+tag_img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%97%BF%E8%97%BF4k_41b16.jpg?attname=
+category_img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/voidfufu4k_aba19.jpg?attname=
+index_img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/void2%E5%91%A8%E5%B9%B44k_077a8.jpg?attname=
+default_top_img: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E8%8A%99%E8%8E%89%E8%8E%B21.jpg?attname=
 #配置TOC
 toc:
   post: true
@@ -181,7 +181,7 @@ subtitle:
   sub:
     - 群星依旧在头顶赏乐 &#44; 沿途将是它们优雅的倦容
 
-favicon: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E5%8D%8E%E4%BB%94.png
+favicon: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E5%8D%8E%E4%BB%94.png?attname=
 
 # 加载滚条
 rightside_scroll_percent: true
@@ -212,4 +212,4 @@ init_pv: 10000
 init_uv: 10000
 
 
-background: url(http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/void2%E5%91%A8%E5%B9%B44k_077a8.jpg)
+background: url(http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/void2%E5%91%A8%E5%B9%B44k_077a8.jpg?attname=)
