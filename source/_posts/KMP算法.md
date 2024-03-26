@@ -2,7 +2,7 @@
 title: KMP算法
 toc: true
 date: 
-cover: https://web-dcelysia-tlias.oss-cn-hangzhou.aliyuncs.com/myBlog/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%B0%8F%E4%BA%BA3.jpg
+cover: http://say9y2uwt.hn-bkt.clouddn.com/myblogPicture/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%B0%8F%E4%BA%BA5.jpg
 categories: 算法
 description: 想不出来介绍了
 tags: KMP
